@@ -3,7 +3,6 @@ from jobs import Jobs
 from lib.items.items import Item
 from typing import List
 
-
 class Player():
 
     name: str
